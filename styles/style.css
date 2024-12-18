@@ -13,7 +13,7 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
   display: flex;
@@ -50,7 +50,7 @@ ol {
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background-color: #D9D9D9;
+  background-color: #d9d9d9;
 }
 
 .content {
@@ -67,7 +67,7 @@ ol {
 
 .title {
   margin-bottom: 26px;
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-size: 75px;
   font-weight: bold;
   color: white;
@@ -122,7 +122,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-size: 30px;
   font-weight: bold;
   color: white;
@@ -130,7 +130,7 @@ ol {
 }
 
 .content__video-card-description {
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-size: 18px;
   font-weight: 400;
   color: white;
@@ -188,7 +188,7 @@ ol {
 }
 
 .search-form__fieldset-title {
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-size: 18px;
   font-weight: normal;
 }
@@ -200,20 +200,20 @@ ol {
   border-right: none;
   border-top: 1px solid white;
   border-bottom: 1px solid white;
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-size: 18px;
   color: rgba(255, 255, 255, 0.7);
   appearance: none;
 }
 
 .search-form__textfield:hover {
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .search-form__checkbox-list {
   display: flex;
   gap: 15px;
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-size: 18px;
 }
 
@@ -231,7 +231,7 @@ ol {
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
-  content: '';
+  content: "";
   width: 15px;
   height: 15px;
   background-color: white;
@@ -240,7 +240,7 @@ ol {
 .button {
   background-color: transparent;
   border: 1px solid white;
-  font-family: 'Fira Sans Condensed';
+  font-family: "Fira Sans Condensed";
   font-size: 18px;
   font-weight: bold;
   color: white;
