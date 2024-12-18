@@ -58,7 +58,6 @@ ol {
   grid-template-columns: [line1] 711px [line2] 399px;
   align-items: end;
   gap: 30px;
-  margin-bottom: 129px;
 }
 
 .content__details {
