@@ -121,7 +121,7 @@ ol {
 
 .content__video-card-title {
   overflow: hidden;
-  text-overflow: ellipsis; 
+  text-overflow: ellipsis;
   white-space: nowrap;
   font-family: "Oswald";
   font-size: 30px;
